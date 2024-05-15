@@ -32,7 +32,7 @@ The model architecture is taken from the [skip-residual-network](https://github.
 The dataset used for the training of the DPN may not be same as the maps are generated in stochastic manner and is also dependent on the GPU Architecture. A slight variations in the results is expected in comparision with the paper results.
 
 ## Badges
-![Static Badge](https://img.shields.io/badge/pytorch-python?style=plastic&logoColor=hex)
+![Static Badge](https://img.shields.io/badge/torch-python?style=plastic&logoColor=hex)
 ![Static Badge](https://img.shields.io/badge/numpy-python?style=plastic&logoColor=hex)
 ![Static Badge](https://img.shields.io/badge/matplotli-3.7.1-2?logoColor=hsl&labelColor=green&color=red)
 ![Static Badge](https://img.shields.io/badge/scikit_learn-1.2.2-2?logoColor=hsl&labelColor=green&color=red)
