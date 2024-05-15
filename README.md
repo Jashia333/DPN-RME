@@ -19,8 +19,9 @@ pip install -r requirements.txt
 python generate_dataset.py --buildings 
 ```
 4. Use the train.py to train the model
+5. The test.py is used to calculate RMSE dB Loss
 
-5. The visualize.py is used to visual the passed sample map, environmental map and the predicted map.
+6. The visualize.py is used to visual the passed sample map, environmental map and the predicted map.
 
 ## Reference 
 
