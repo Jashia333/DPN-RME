@@ -14,3 +14,8 @@ git clone https://github.com/Jashia515/DPN-RME
 cd repo
 pip install -r requirements.txt
 ```
+3. To generate the dataset use the following command and pass the "--buildings" to ensure the environmental mask is generated. A folder is created with the test and train sub folder which consists of 250000 maps.
+```
+python generate_dataset.py --buildings 
+```
+4. 
