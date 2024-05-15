@@ -34,7 +34,11 @@ The dataset used for the training of the DPN may not be same as the maps are gen
 ## Badges
 ![Static Badge](https://img.shields.io/badge/pytorch-python?style=plastic&logoColor=hex)
 ![Static Badge](https://img.shields.io/badge/numpy-python?style=plastic&logoColor=hex)
-![Static Badge](https://img.shields.io/badge/matplotlib-python?style=plastic&logoColor=hex)
-![Static Badge](https://img.shields.io/badge/joblib-scaler-1?style=plastic&logoColor=hex)
+![Static Badge](https://img.shields.io/badge/matplotli-3.7.1-2?logoColor=hsl&labelColor=green&color=red)
+![Static Badge](https://img.shields.io/badge/scikit_learn-1.2.2-2?logoColor=hsl&labelColor=green&color=red)
+![Static Badge](https://img.shields.io/badge/opencv_python-4.8.0.76-2?logoColor=hsl&labelColor=green&color=blue)
+![Static Badge](https://img.shields.io/badge/wandb-0.14.2-r?logoColor=blue&labelColor=blue)
+![Static Badge](https://img.shields.io/badge/joblib-1.2.0-p?logoColor=blue&labelColor=blue)
+
 
 
