@@ -26,7 +26,7 @@ python generate_dataset.py --buildings
 ## Reference 
 
 The Code to generate the dataset is taken from [deep-autoencoders-cartography](https://github.com/fachu000/deep-autoencoders-cartography). 
-The model architecture is taken from the [skip-residual-network](https://github.com/nikitalokhmachev-ai/radio-map-estimation-public).
+The model architectures is taken from the [skip-residual-network](https://github.com/nikitalokhmachev-ai/radio-map-estimation-public).
 
 ## Warning
 
