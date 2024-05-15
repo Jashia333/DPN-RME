@@ -10,7 +10,7 @@ The following are steps used to generate the paper results
 2. Navigate to the cloned repository and run the following commands.
 
 ```
-git clone https://github.com/user/repo
+git clone https://github.com/Jashia515/DPN-RME
 cd repo
 pip install -r requirements.txt
 ```
